@@ -3,5 +3,6 @@ var App = {
 	Routers : {},
 	Collections : {},
 	Views : {}
-};
 
+};
+/*yangyuliang*/
